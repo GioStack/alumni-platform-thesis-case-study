@@ -2,6 +2,12 @@
 
 > Diploma thesis case study - Grade: **10/10**
 
+## Live Website
+
+Visit the deployed platform at **[alumni.ece.uowm.gr](https://alumni.ece.uowm.gr)**.
+
+> The website is hosted and maintained on the University of Western Macedonia's infrastructure, so its availability and content may change independently of this repository.
+
 This repository documents the design and development of an alumni community platform for the Department of Electrical and Computer Engineering at the University of Western Macedonia. The project was completed as my diploma thesis and delivered as a production-ready WordPress platform for alumni networking, communication, academic updates, events, and professional opportunities.
 
 ## Project Overview
