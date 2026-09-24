@@ -44,6 +44,32 @@ I was responsible for the end-to-end analysis, design, implementation, customiza
 - Responsive navigation and layouts for desktop and mobile devices.
 - Administration tools for content, users, privacy, and moderation.
 
+## Screenshots
+
+### Events and university activities
+
+The events page brings academic, professional, and community activities together in a structured timeline.
+
+![Events page](assets/events.jpg)
+
+### Job board
+
+Members and administrators can publish and browse employment and internship opportunities.
+
+![Job board](assets/job-board.jpg)
+
+### Performance testing
+
+The platform was evaluated with both DebugBear and SiteSpeed.gr to validate loading speed, responsiveness, and optimization opportunities.
+
+![DebugBear performance report](assets/performance-debugbear.jpg)
+
+<p align="center">
+  <img src="assets/performance-sitespeed.jpg" alt="SiteSpeed.gr performance report" width="75%">
+</p>
+
+> Screenshots were selected from the completed thesis documentation. Member-directory and activity-feed views were intentionally excluded to avoid publishing third-party personal data.
+
 ## Technology Stack
 
 | Area | Technologies and tools |
