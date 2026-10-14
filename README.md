@@ -88,6 +88,7 @@ This repository **does not contain source code** and cannot be run locally. The 
 ## Thesis details
 
 - **Author:** Georgios Georgiadis
+- **Degree:** Diploma in Informatics and Telecommunications Engineering
 - **Supervisor:** Pantelis Angelidis, Professor
 - **Institution:** University of Western Macedonia, Faculty of Engineering, Department of Electrical and Computer Engineering, Kozani, Greece
 - **Year:** 2025 (October) · Grade 10/10
