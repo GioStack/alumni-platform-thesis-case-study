@@ -1,9 +1,9 @@
 # Alumni Platform – ECE, University of Western Macedonia
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![BuddyPress](https://img.shields.io/badge/BuddyPress-D84800)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
+[![BuddyPress](https://img.shields.io/badge/BuddyPress-D84800)](https://buddypress.org)
 
 A community website where graduates of the Department of Electrical and Computer Engineering at the University of Western Macedonia stay connected with each other and with the department.
 
