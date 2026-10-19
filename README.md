@@ -46,7 +46,6 @@ A small social network for the graduates of the Department of Electrical and Com
 Names and photos of other members are blurred to protect their privacy.
 
 </details>
-WordPress is the core. Each feature (profiles, chat, events, jobs) is a plugin, extended with custom PHP, JavaScript and CSS.
 
 ## User roles
 
@@ -74,6 +73,8 @@ flowchart LR
 ```
 
 ## Technologies
+
+WordPress is the core. Each feature (profiles, chat, events, jobs) is a plugin, extended with custom PHP, JavaScript and CSS.
 
 | Layer | Tools |
 |---|---|
