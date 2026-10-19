@@ -9,6 +9,15 @@ A small social network for the graduates of the Department of Electrical and Com
 
 **Live:** [alumni.ece.uowm.gr](https://alumni.ece.uowm.gr) · Diploma thesis, grade **10/10**
 
+## Key features
+
+- **Profiles** with graduation year, current job, skills, LinkedIn and GitHub
+- **Member directory** with search, plus topic-based groups
+- **Private chat** and an activity wall with posts and comments
+- **Job board** where every graduate can post openings
+- **Events** as a list or calendar, with "Add to Calendar"
+- **Mobile-ready**, with dark mode, translation and accessibility tools
+
 | Events | Job board |
 |---|---|
 | ![Events page](assets/events.jpg) | ![Job board](assets/job-board.jpg) |
@@ -26,15 +35,6 @@ flowchart LR
 ```
 
 WordPress is the core. Each feature (profiles, chat, events, jobs) is a plugin, extended with custom PHP, JavaScript and CSS.
-
-## Key features
-
-- **Profiles** with graduation year, current job, skills, LinkedIn and GitHub
-- **Member directory** with search, plus topic-based groups
-- **Private chat** and an activity wall with posts and comments
-- **Job board** where every graduate can post openings
-- **Events** as a list or calendar, with "Add to Calendar"
-- **Mobile-ready**, with dark mode, translation and accessibility tools
 
 ## User roles
 
@@ -63,44 +63,21 @@ flowchart LR
 
 ## Technologies
 
-```mermaid
-mindmap
-  root((Alumni Platform))
-    Frontend
-      NewsBlogger theme
-      Custom CSS and JavaScript
-      Responsive design
-    Backend
-      WordPress and PHP
-      BuddyPress
-      Youzify profiles
-      Better Messages chat
-      The Events Calendar
-      Submitted Posts jobs
-    Database
-      MySQL
-    Security and privacy
-      Wordfence
-      Complianz GDPR
-      UpdraftPlus backups
-    Extras
-      Google sign-in
-      GTranslate
-      UserWay accessibility
-      Dark mode
-      Newsletter
-```
+| Layer | Tools |
+|---|---|
+| **Frontend** | ![NewsBlogger theme](https://img.shields.io/badge/NewsBlogger_theme-6F42C1) ![CSS](https://img.shields.io/badge/CSS-6F42C1) ![JavaScript](https://img.shields.io/badge/JavaScript-6F42C1?logo=javascript&logoColor=white) ![Responsive design](https://img.shields.io/badge/Responsive_design-6F42C1) |
+| **Backend** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-21759B?logo=php&logoColor=white) ![BuddyPress](https://img.shields.io/badge/BuddyPress-21759B) ![Youzify](https://img.shields.io/badge/Youzify-21759B) ![Better Messages](https://img.shields.io/badge/Better_Messages-21759B) ![The Events Calendar](https://img.shields.io/badge/The_Events_Calendar-21759B) ![Submitted Posts](https://img.shields.io/badge/Submitted_Posts-21759B) ![WPCode Lite](https://img.shields.io/badge/WPCode_Lite-21759B) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Security & privacy** | ![Wordfence](https://img.shields.io/badge/Wordfence-2E7D32) ![Complianz GDPR](https://img.shields.io/badge/Complianz_GDPR-2E7D32) ![UpdraftPlus backups](https://img.shields.io/badge/UpdraftPlus_backups-2E7D32) |
+| **Extras** | ![Google sign-in](https://img.shields.io/badge/Google_sign--in-6B7280?logo=google&logoColor=white) ![GTranslate](https://img.shields.io/badge/GTranslate-6B7280) ![UserWay](https://img.shields.io/badge/UserWay_accessibility-6B7280) ![Dark mode](https://img.shields.io/badge/Dark_mode-6B7280) ![Newsletter](https://img.shields.io/badge/Noptin_newsletter-6B7280) ![WP Mail SMTP](https://img.shields.io/badge/WP_Mail_SMTP-6B7280) |
 
-<details>
-<summary><b>Performance</b>: loads in 1.92 s, DebugBear score 70% (click to expand)</summary>
+## Performance
 
-<br>
+The live site loads in **1.92 s** (SiteSpeed.gr) and scores **70%** on DebugBear.
 
 | DebugBear | SiteSpeed.gr |
 |---|---|
 | ![DebugBear results](assets/performance-debugbear.jpg) | ![SiteSpeed.gr results](assets/performance-sitespeed.jpg) |
-
-</details>
 
 ## About this repository
 
