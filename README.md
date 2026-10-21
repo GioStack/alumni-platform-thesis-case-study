@@ -11,12 +11,12 @@ A small social network for the graduates of the Department of Electrical and Com
 
 ## Key features
 
-- **Profiles** with graduation year, current job, skills, LinkedIn and GitHub
-- **Member directory** with search, plus topic-based groups
-- **Private chat** and an activity wall with posts and comments
-- **Job board** where every graduate can post openings
-- **Events** as a list or calendar, with "Add to Calendar"
-- **Mobile-ready**, with dark mode, translation and accessibility tools
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/user.svg?color=%23ffffff"><img src="https://api.iconify.design/lucide/user.svg?color=%23000000" height="16" alt=""></picture> **Profiles** with graduation year, current job, skills, LinkedIn and GitHub
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/users.svg?color=%23ffffff"><img src="https://api.iconify.design/lucide/users.svg?color=%23000000" height="16" alt=""></picture> **Member directory** with search, plus topic-based groups
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/message-circle.svg?color=%23ffffff"><img src="https://api.iconify.design/lucide/message-circle.svg?color=%23000000" height="16" alt=""></picture> **Private chat** and an activity wall with posts and comments
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/briefcase.svg?color=%23ffffff"><img src="https://api.iconify.design/lucide/briefcase.svg?color=%23000000" height="16" alt=""></picture> **Job board** where every graduate can post openings
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/calendar.svg?color=%23ffffff"><img src="https://api.iconify.design/lucide/calendar.svg?color=%23000000" height="16" alt=""></picture> **Events** as a list or calendar, with "Add to Calendar"
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/smartphone.svg?color=%23ffffff"><img src="https://api.iconify.design/lucide/smartphone.svg?color=%23000000" height="16" alt=""></picture> **Mobile-ready**, with dark mode, translation and accessibility tools
 
 | Home page | Job board |
 |---|---|
