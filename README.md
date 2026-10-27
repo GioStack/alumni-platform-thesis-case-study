@@ -99,4 +99,6 @@ This repository documents the project and **does not contain source code**. The 
 ## Thesis details
 
 **Georgios Georgiadis** · Diploma in Informatics and Telecommunications Engineering<br>
-University of Western Macedonia, Department of Electrical and Computer Engineering · Supervisor: Prof. Pantelis Angelidis · October 2025 · Grade 10/10
+
+University of Western Macedonia, Department of Electrical and Computer Engineering · Supervisor: Prof. Pantelis Angelidis · October 2025 · Grade 10/10<br>
+**Full thesis (Greek):** [University of Western Macedonia repository](https://dspace.uowm.gr/xmlui/handle/123456789/6653)
