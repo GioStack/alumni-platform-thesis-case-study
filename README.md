@@ -1,13 +1,13 @@
-# Alumni Platform – ECE, University of Western Macedonia
+# University Alumni Platform – ECE, University of Western Macedonia
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
 [![BuddyPress](https://img.shields.io/badge/BuddyPress-D84800)](https://buddypress.org)
 
-A small social network for the graduates of the Department of Electrical and Computer Engineering: profiles, groups, chat, events and a job board in one place.
+The department's alumni website lacked the features it needed, so I designed a replacement: a social network for the graduates of the Department of Electrical and Computer Engineering, with profiles, groups, chat, events and a job board in one place.
 
-**Live:** [alumni.ece.uowm.gr](https://alumni.ece.uowm.gr) · Diploma thesis, grade **10/10**
+**Live:** [alumni.ece.uowm.gr](https://alumni.ece.uowm.gr) · Diploma thesis, grade **10/10** · Pitched to the department and ready for rollout
 
 ## Key features
 
@@ -94,11 +94,10 @@ The live site loads in **1.92 s** (SiteSpeed.gr) and scores **70%** on DebugBear
 
 ## About this repository
 
-This repository documents the project and **does not contain source code**. The website runs on the university's servers, which I no longer have access to. No credentials, personal data or backups are included, and member pages are not shown to protect other people's data.
+This repository documents the project and **does not contain source code**. The website runs on the university's servers, which I no longer have access to. No credentials, personal data or backups are included, and other members' names and photos are blurred in the screenshots.
 
 ## Thesis details
 
 **Georgios Georgiadis** · Diploma in Informatics and Telecommunications Engineering<br>
-
 University of Western Macedonia, Department of Electrical and Computer Engineering · Supervisor: Prof. Pantelis Angelidis · October 2025 · Grade 10/10<br>
 **Full thesis (Greek):** [University of Western Macedonia repository](https://dspace.uowm.gr/xmlui/handle/123456789/6653)
